@@ -7,3 +7,9 @@ Print CSV files in terminal
 ```sh
 nanocsv <path to CSV file>
 ```
+
+## Build
+
+```sh
+go build .
+```
